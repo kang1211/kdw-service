@@ -4,7 +4,9 @@
   "description": "dashBoard",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "repository": {
     "type": "git",
@@ -17,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/kang1211/kdw-service/issues"
   },
-  "homepage": "https://github.com/kang1211/kdw-service#readme"
+  "homepage": "https://github.com/kang1211/kdw-service#readme",
+  "dependencies": {
+    "vue": "^3.5.45"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.10",
+    "vite": "^8.3.7"
+  }
 }
