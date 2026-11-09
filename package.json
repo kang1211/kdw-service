@@ -1,0 +1,21 @@
+{
+  "name": "kdw-service",
+  "version": "1.0.0",
+  "description": "dashBoard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kang1211/kdw-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kang1211/kdw-service/issues"
+  },
+  "homepage": "https://github.com/kang1211/kdw-service#readme"
+}
